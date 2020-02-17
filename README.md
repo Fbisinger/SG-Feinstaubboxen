@@ -1,2 +1,2 @@
 # SG-Feinstaubboxen
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/Logo_SG_Digitalisierung.jpg)
