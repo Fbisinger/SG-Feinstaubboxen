@@ -1,4 +1,4 @@
-# Feinstaubboxen Schelztor-Gymnasium Arduino Script
+# Feinstaubboxen Schelztor-Gymnasium
 #      (c) 2020 F.Bisinger
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
