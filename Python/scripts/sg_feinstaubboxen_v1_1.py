@@ -125,7 +125,7 @@ def import_csv_data():
 
 root = tk.Tk()
 root.title("Feinstaubboxen Schelztor-Gymnasium (c) 2020 F.Bisinger")
-root.iconbitmap('C:\\Users\\Florian\\Desktop\\logo.ico')
+root.iconbitmap(sys._MEIPASS + '\\logo.ico')
 tk.Label(root, text='File Path').grid(row=0, column=0)
 tk.Label(root, text='This Script, written and debugged \n in Python by Florian Bisinger \n is a tool to create simple plots \n from csv-files').grid(row=0, column=2)
 #img = ImageTk.PhotoImage(Image.open("Logo_SG_Digitalisierung.jpg"))
