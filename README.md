@@ -4,7 +4,7 @@
 1. - [x] Arduino Script
 2. - [x] Python Script
 3. - [x] Python App Mac OS X
-4. - [ ] Python App WINDOWS
+4. - [x] Python App WINDOWS
 5. - [ ] PCB layout
 6. - [ ] Circuit layout
 ## 1. Arduino Script
@@ -19,6 +19,11 @@ Currently no further updates! => use WINDOWS version!
 ![macOS](/img/figure_4.png)
 ## 4. Python App WINDOWS
 WINDOWS App for Feinstaubboxen
-=> Download App at tab "releases"
+=> Download App at tab "releases", "Feinstaubboxen-Installer.exe"
 ## 5. PCB layout
+PCB layout designed with EasyEDA
+=> Gerber files in folder "pcb"
+![PCB](/img/pcb_1.png)
+![PCB](/img/pcb_2.png)
 ## 6. Circuit layout
+![Circuit](/img/circuit.png)
