@@ -1,3 +1,2 @@
-#IN WORK!!
-
 WINDOWS App to create simple plots from csv-files
+=> releases
