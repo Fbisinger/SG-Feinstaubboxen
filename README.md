@@ -15,7 +15,10 @@ Console based Python script, developped and executable in Python 2.7.10
 ## 3. Python App Mac OS X
 Mac OS X App, compiled with pyInstaller for macOS, based on the console version.
 This version of the App has a built in graphical user interface.
+Currently no further updates! => use WINDOWS version!
 ![macOS](/img/figure_4.png)
 ## 4. Python App WINDOWS
+WINDOWS App for Feinstaubboxen
+=> Download App at tab "releases"
 ## 5. PCB layout
 ## 6. Circuit layout
