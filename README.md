@@ -5,8 +5,8 @@
 2. - [x] Python Script
 3. - [x] Python App Mac OS X
 4. - [x] Python App WINDOWS
-5. - [ ] PCB layout
-6. - [ ] Circuit layout
+5. - [x] PCB layout
+6. - [x] Circuit layout
 ## 1. Arduino Script
 The Arduino Script was successfully compiled for Arduino NANO (ATmega328)
 ![Arduino](/img/figure_5.png)
@@ -20,10 +20,13 @@ Currently no further updates! => use WINDOWS version!
 ## 4. Python App WINDOWS
 WINDOWS App for Feinstaubboxen
 => Download App at tab "releases", "Feinstaubboxen-Installer.exe"
+![WINDOWS](/img/figure_6.png)
+![WINDOWS](/img/figure_7.png)
 ## 5. PCB layout
 PCB layout designed with EasyEDA
-=> Gerber files in folder "pcb"
+=> Latest Gerber files in folder "pcb/gerber"
 ![PCB](/img/pcb_1.png)
 ![PCB](/img/pcb_2.png)
 ## 6. Circuit layout
+Latest Schematic: "pcb/schematic/Schematic_Feinstaubboxen_Arduino_Nano.pdf"
 ![Circuit](/img/circuit.png)
