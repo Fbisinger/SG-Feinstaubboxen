@@ -22,6 +22,9 @@ WINDOWS App for Feinstaubboxen
 => Download App at tab "releases", "Feinstaubboxen-Installer.exe"
 ![WINDOWS](/img/figure_6.png)
 ![WINDOWS](/img/figure_7.png)
+HELP/USAGE:
+![WINDOWS](/img/figure_8.png)
+![WINDOWS](/img/figure_9.png)
 ## 5. PCB layout
 PCB layout designed with EasyEDA
 => Latest Gerber files in folder "pcb/gerber"
