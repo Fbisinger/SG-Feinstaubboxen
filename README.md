@@ -22,7 +22,7 @@ WINDOWS App for Feinstaubboxen
 => Download App at tab "releases", "Feinstaubboxen-Installer.exe"
 ![WINDOWS](/img/figure_6.png)
 ![WINDOWS](/img/figure_7.png)
-HELP/USAGE:
+## HELP/USAGE:
 ![WINDOWS](/img/figure_8.png)
 ![WINDOWS](/img/figure_9.png)
 ## 5. PCB layout
