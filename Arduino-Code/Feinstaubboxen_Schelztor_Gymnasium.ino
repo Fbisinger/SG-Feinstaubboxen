@@ -83,8 +83,8 @@ THE SOFTWARE.
   // boolean for cr
   boolean cr = true;
   // Variables for status LEDs
-  int LED_RED = 3;
-  int LED_GREEN = 4;
+  int LED_RED = 4;
+  int LED_GREEN = 3;
 
 // Options: Uncomment this if you want to use the SDS011 sleep mode capabilities 
 //(leads to: longer battery life & longer lifetime of the sensor)
